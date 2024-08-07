@@ -4,7 +4,8 @@ ESD T5 - 2D Project
 Problem 9, Challenge Question : Priority Queue Operation
 
 ## Description
-Queue Optima is a presciptive analytics tool for queue policy management in Airports. For this project, we have based our case study on the Los Angeles International Airport (LAX). Our software comes coded with 3 queuing policies: Unified Queue, Double Queue, Priority Queue. And all are underscored by a M/M/k model. <br>
+Queue Optima is a presciptive analytics tool for queue policy management in Airports. For this project, we have based our case study on the Los Angeles International Airport (LAX). Our software comes coded with 3 queuing policies: Unified Queue, Double Queue, Priority Queue. And all are underscored by a M/M/k model. 
+<br>
 Queue Optima serves to prioritize and minimize immigration waiting time for the U.S. Cititzens, while ensuring fairness for the Non- U.S. citizens.
 
 M - Poisson Process arrival rate <br>
