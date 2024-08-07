@@ -11,12 +11,14 @@ M - Exponential service rate <br>
 k - finite number of counters, of which the number of counters for the U.S. citizens queue and that for the Non- U.S. citizens queue. 
 
 ## 1. Download R libraries
+```
 library(shiny)
 library(shinythemes)
 library(queueing)
 library(ggplot2)
 library(plotly)
 library(tidyr)
+```
 
 ## 2. Launch the webapp
 Run the file to launch the webapp
