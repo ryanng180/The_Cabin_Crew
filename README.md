@@ -1,17 +1,18 @@
-# The_Cabin_Crew : Queue Optima
-ESD T5 - 2D Project
+# The_Cabin_Crew: Queue Optima
+### ESD Term 5 - 2D Project (Engineering System Architecture and Manufacturing and Service Operations)
 
-Problem 9, Challenge Question : Priority Queue Operation
+### Problem 9, Challenge Question: Priority Queue Operation
 
 ## Description
-Queue Optima is a presciptive analytics tool for queue policy management in Airports. For this project, we have based our case study on the Los Angeles International Airport (LAX). Our software comes coded with 3 queuing policies: Unified Queue, Double Queue, Priority Queue. And all are underscored by a M/M/k model. 
-<br>
-<br>
-Queue Optima serves to prioritize and minimize immigration waiting time for the U.S. Cititzens, while ensuring fairness for the Non- U.S. citizens.
+Queue Optima is a sophisticated prescriptive analytics tool designed for queue policy management in airports. For this project, we based our case study on the Los Angeles International Airport (LAX). Our software incorporates three queuing policies: Unified Queue, Double Queue, and Priority Queue, all underscored by an M/M/k model.
 
-M - Poisson Process arrival rate <br>
-M - Exponential service rate <br>
-k - finite number of counters, of which the number of counters for the U.S. citizens queue and that for the Non- U.S. citizens queue. 
+Queue Optima aims to prioritize and minimize immigration waiting times for U.S. citizens while ensuring fairness for non-U.S. citizens.
+
+- **M** - Poisson Process arrival rate
+- **M** - Exponential service rate
+- **k** - Finite number of counters, distributed between queues for U.S. citizens and non-U.S. citizens.
+
+By implementing Queue Optima, airports can enhance operational efficiency, reduce wait times, and maintain equitable service for all passengers.
 
 ## 1. Install required R libraries
 ```
