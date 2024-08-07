@@ -25,11 +25,15 @@ install.packages("tidyr")
 
 ## 2. Launch the webapp
 Step 1: Run the file
-Step 2: Paste the code in the terminal and run
+Step 2: Launching the webapp
+2.1 Rstudio: Paste the code below in the terminal and run
 ```
 shinyApp(ui = ui, server = server)
 ```
-Alternatively, you may find this line at the bottom of the code.
+2.2 VScode: Paste the code below in the termnial and run
+```
+shiny::runApp("path/to/your_shiny_app")
+```
 
 ## 2.1 Help page
 Please refer to our Help page for a quick guide on using the software.
