@@ -32,18 +32,22 @@ Step 1: Run the file
 
 
 Step 2: Launching the webapp
-2.1 Rstudio: Paste the code below in the terminal and run
+
+
+2a. Rstudio: Paste the code below in the terminal and run
 ```
 shinyApp(ui = ui, server = server)
 ```
-2.2 VScode: Paste the code below in the termnial and run
+
+
+2b. VScode: Paste the code below in the termnial and run
 ```
 shiny::runApp("path/to/your_shiny_app")
 ```
 
-## 2.1 Help page
+### 2.1 Help page
 Please refer to our Help page for a quick guide on using the software.
 
-## 2.2 Home page (Landing Page)
+### 2.2 Home page (Landing Page)
 Based on real world constraints, namely Queue Psychology, we have prescibed a Double Queue model for LAX immigrations. The statistics shown on the Home page reflects the Double Queue.
 
