@@ -17,6 +17,9 @@ Queue Optima aims to prioritize and minimize immigration waiting times for U.S. 
 
 By implementing Queue Optima, airports can enhance operational efficiency, reduce wait times, and maintain equitable service for all passengers.
 
+## [Presentation Slides](https://www.canva.com/design/DAGL70KG5sw/Xip9rGFI0BsoF5dIO5NMkw/view?utm_content=DAGL70KG5sw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+
 ## 1. Install required R libraries
 ```
 install.packages("shiny")
