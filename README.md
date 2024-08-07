@@ -1,5 +1,5 @@
 # The_Cabin_Crew: Queue Optima
-[![The Cabin Crew](./the%20cabin%20crew.png)]
+![Repository Image](./the%20cabin%20crew.png)
 
 ### ESD Term 5 - 2D Project (Engineering System Architecture and Manufacturing and Service Operations)
 
