@@ -1,7 +1,7 @@
 # The_Cabin_Crew: Queue Optima
 ### ESD Term 5 - 2D Project (Engineering System Architecture and Manufacturing and Service Operations)
 
-### Problem 9, Challenge Question: Priority Queue Operation
+### Problem 9, Challenge Topic: Priority Queue Operation
 
 ## Description
 Queue Optima is a sophisticated prescriptive analytics tool designed for queue policy management in airports. For this project, we based our case study on the Los Angeles International Airport (LAX). Our software incorporates three queuing policies: Unified Queue, Double Queue, and Priority Queue, all underscored by an M/M/k model.
