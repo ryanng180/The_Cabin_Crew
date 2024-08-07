@@ -21,7 +21,12 @@ install.packages("tidyr")
 ```
 
 ## 2. Launch the webapp
-Run the file to launch the webapp
+Step 1: Run the file
+Step 2: Paste the code in the terminal and run
+```
+shinyApp(ui = ui, server = server)
+```
+Alternatively, you may find this line at the bottom of the code.
 
 ## 2.1 Help page
 Please refer to our Help page for a quick guide on using the software.
