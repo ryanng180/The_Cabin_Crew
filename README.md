@@ -6,11 +6,14 @@
 ## Description
 Queue Optima is a sophisticated prescriptive analytics tool designed for queue policy management in airports. For this project, we based our case study on the Los Angeles International Airport (LAX). Our software incorporates three queuing policies: Unified Queue, Double Queue, and Priority Queue, all underscored by an M/M/k model.
 
+
 Queue Optima aims to prioritize and minimize immigration waiting times for U.S. citizens while ensuring fairness for non-U.S. citizens.
+
 
 - **M** - Poisson Process arrival rate
 - **M** - Exponential service rate
 - **k** - Finite number of counters, distributed between queues for U.S. citizens and non-U.S. citizens.
+
 
 By implementing Queue Optima, airports can enhance operational efficiency, reduce wait times, and maintain equitable service for all passengers.
 
@@ -26,6 +29,7 @@ install.packages("tidyr")
 
 ## 2. Launch the webapp
 Step 1: Run the file
+
 
 Step 2: Launching the webapp
 2.1 Rstudio: Paste the code below in the terminal and run
