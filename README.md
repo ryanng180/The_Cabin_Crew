@@ -10,14 +10,14 @@ M - Poisson Process arrival rate <br>
 M - Exponential service rate <br>
 k - finite number of counters, of which the number of counters for the U.S. citizens queue and that for the Non- U.S. citizens queue. 
 
-## 1. Download R libraries
+## 1. Install required R libraries
 ```
-library(shiny)
-library(shinythemes)
-library(queueing)
-library(ggplot2)
-library(plotly)
-library(tidyr)
+install.packages("shiny")
+install.packages("shinythemes")
+install.packages("queueing")
+install.packages("ggplot2")
+install.packages("plotly")
+install.packages("tidyr")
 ```
 
 ## 2. Launch the webapp
