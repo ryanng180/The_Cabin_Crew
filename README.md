@@ -45,9 +45,8 @@ shinyApp(ui = ui, server = server)
 shiny::runApp("path/to/your_shiny_app")
 ```
 
-### 2.1 Help page
-Please refer to our Help page for a quick guide on using the software.
-
-### 2.2 Home page (Landing Page)
+### 2.1 Home page (Landing Page)
 Based on real world constraints, namely Queue Psychology, we have prescibed a Double Queue model for LAX immigrations. The statistics shown on the Home page reflects the Double Queue.
 
+### 2.2 Help page
+Please refer to our Help page for a quick guide on using the software.
