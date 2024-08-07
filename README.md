@@ -25,6 +25,7 @@ install.packages("tidyr")
 
 ## 2. Launch the webapp
 Step 1: Run the file
+
 Step 2: Launching the webapp
 2.1 Rstudio: Paste the code below in the terminal and run
 ```
