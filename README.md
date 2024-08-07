@@ -1,4 +1,4 @@
-# The_Cabin_Crew: Queue Optima
+# The Cabin Crew: Queue Optima
 
 ![Repository Image](/the%20cabin%20crew.png)
 
